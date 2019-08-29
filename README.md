@@ -1,0 +1,1 @@
+# django-geo-spaas-metno-buoys
